@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	background: #2e2e2e;
+	background: #464545;
 	color: #e1e1e1;
 	font-family: 'EB Garamond', serif;
 	font-size: 1.8rem;
@@ -98,4 +98,19 @@ button {
 	border-radius: 10px;
 	text-align: center;
 	padding: 50px;
+}
+
+/********** About **********/
+
+.about {
+	border-top: 2px solid rgb(17, 0, 255);
+	text-align: center;
+}
+
+.title {
+	padding: 10px;
+}
+
+.paragraph {
+	padding-bottom: 10px;
 }
